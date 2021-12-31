@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ff5cf61f1f88d946a6ed23c6cc34ef4, type: 3}
+  m_Name: Run
+  m_EditorClassIdentifier: 
+  inputV:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: ffd37063d0736934a9858591dfb1588e, type: 2}
+  inputH:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: ff7b2960f115eb643aa144953b5b6e6d, type: 2}
+  targetMode:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: 7700b56fac8bf1441a0fb5ea60d7821a, type: 2}
+  activeRotate:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: e40f967fa1bd34c4c9e9bd137699a2fd, type: 2}
+  activeMove:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: dd37c832ca0083642a99e5d419c6eaad, type: 2}
+  runSpeed:
+    useConstant: 0
+    constantValue: 0
+    variable: {fileID: 11400000, guid: 2beebbb9dc8d5204686ee3caf0dbdc03, type: 2}
+  jumpForce: 5
